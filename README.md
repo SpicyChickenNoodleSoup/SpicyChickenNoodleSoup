@@ -25,7 +25,7 @@
 ---
 
 <h3 align="left">Connect with me</h3>
-<p align="left">Thank you for stopping by today 🙌 ![](https://komarev.com/ghpvc/?username=jolwnn&color=blueviolet)</p>
+<p align="left">Thank you for stopping by today 🙌</p>
 
 - 🤝 Drop a connection request at [**my LinkedIn**](https://www.linkedin.com/in/zhuo-lin-wee/)
 
