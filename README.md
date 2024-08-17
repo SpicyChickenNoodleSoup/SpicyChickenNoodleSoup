@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1 align="left">Hi 👋, I'm Jolynn</h1>
+<h3 align="left">A passionate Computer Science student from Singapore</h3>
 
-<!--
-**SpicyChickenNoodleSoup/spicychickennoodlesoup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Take a look at my most recent passion project [**Snippet Monster**](https://snippet-monster.vercel.app/) **(Vite, React, Typescript, TailwindCSS, Shadcn, Supabase)**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **web development with various frameworks (mainly Next.js and React)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3 align="left">Connect with me</h3>
+<p align="left">Thank you for stopping by 🙌</p>
+
+- 🤝 Drop a connection request at [**my LinkedIn**](https://www.linkedin.com/in/zhuo-lin-wee/)
+
+- 📫 Send me an email at **zhuolinwee@gmail.com**
+
+---
+
+### **Skills & Technologies** 🚀
+
+Languages:
+**Java** • **JavaScript / TypeScript** • **Python** • **HTML / CSS** • **SQL** • **Markdown**
+
+Frameworks / Libraries:
+**React** • **Node.js** • **Next.js** • **Express.js** • **Flask** • **Tailwind CSS** • **Vite**
+
+Databases:
+**PostgreSQL** • **SQLite** • **MongoDB** • **Drizzle ORM** • **Supabase**
+
+AI / ML:
+**TensorFlow** • **Pandas** • **NumPy** • **scikit-learn** • **Python Imaging Library**
+
+Other Tools / Technologies:
+**Git** • **Nginx** • **Docker** • **Figma** • **VSCode** • **Jira / Confluence** • **Microsoft Office**
