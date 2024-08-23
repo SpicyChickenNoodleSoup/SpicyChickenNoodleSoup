@@ -5,6 +5,9 @@
 
 - 🌱 I’m currently learning **web development with various frameworks (mainly Next.js and React)**
 
+- 🎓 In school, I am currently taking courses on **computer organisation, computer networks, database systems, IT management, and software engineering practices**
+
+
 ### **Skills & Technologies** 🚀
 
 - Languages:
