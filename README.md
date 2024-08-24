@@ -7,7 +7,7 @@
 
 - 🎓 In school, I am currently taking courses on **computer organisation, computer networks, database systems, IT management, and software engineering practices**
 
-- 👀 Checkout [**my portfolio**](https://jolynn-wee.vercel.app/)! (WIP)
+- 👀 Checkout [**my portfolio website**](https://jolynn-wee.vercel.app/)! (WIP)
 
 ### **Skills & Technologies** 🚀
 
