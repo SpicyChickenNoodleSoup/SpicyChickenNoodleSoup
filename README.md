@@ -12,9 +12,9 @@
 ### **Skills & Technologies** 🚀
 
 - Languages:
-**Java** • **JavaScript / TypeScript** • **Python** • **HTML / CSS** • **SQL** • **Markdown**
+**Java** • **JavaScript / TypeScript** • **Python** • **C** • **HTML / CSS** • **SQL** • **Markdown**
 - Frameworks / Libraries:
-**React** • **Node.js** • **Next.js** • **Express.js** • **Flask** • **Tailwind CSS** • **Vite**
+**React** • **Node.js** • **Next.js** • **Express.js** • **Flask** • **Tailwind CSS** • **Vite** • **JavaFX**
 - Databases:
 **PostgreSQL** • **SQLite** • **MongoDB** • **Drizzle ORM** • **Supabase**
 - AI / ML:
