@@ -3,24 +3,22 @@
 
 - 🔭 Take a look at my most recent project [**Snippet Monster**](https://snippet-monster.vercel.app/) **(Vite, React, Typescript, TailwindCSS, Shadcn, Supabase)**
 
-- 🌱 I’m currently learning **web development with various frameworks (mainly Next.js and React)**
+- 🌱 I’m currently learning **full-stack development with various frameworks**
 
-- 🎓 In school, I am currently taking courses on **computer organisation, computer networks, database systems, IT management, and software engineering practices**
+- 🎓 In school, I am currently taking courses on **operating systems and artificial intelligience**. I have completed course in **data structures and algorithms, computer organisation, computer networks, database systems, IT management, and software engineering practices**
 
 - 👀 Checkout [**my portfolio website**](https://jolynn-wee.vercel.app/)! (WIP)
 
 ### **Skills & Technologies** 🚀
 
-- Languages:
-**Java** • **JavaScript / TypeScript** • **Python** • **C** • **HTML / CSS** • **SQL** • **Markdown**
-- Frameworks / Libraries:
-**React** • **Node.js** • **Next.js** • **Express.js** • **Flask** • **Tailwind CSS** • **Vite** • **JavaFX**
-- Databases:
-**PostgreSQL** • **SQLite** • **MongoDB** • **Drizzle ORM** • **Supabase**
-- AI / ML:
-**TensorFlow** • **Pandas** • **NumPy** • **scikit-learn** • **Python Imaging Library**
-- Other Tools / Technologies:
-**Git** • **Nginx** • **Docker** • **Figma** • **VSCode** • **Jira / Confluence** • **Microsoft Office**
+- Languages:  
+**Java** • **JavaScript / TypeScript** • **Python** • **C** • **Go**  
+- Frontend Technologies:  
+**React** • **Next.js** • **HTML, CSS** • **Tailwind CSS** • **Vite** • **ShadCN**  
+- Backend & Databases:  
+**PostgreSQL** • **MySQL** • **MongoDB** • **Node.js** • **Go (Gin, Fiber)** • **Drizzle ORM** • **Redis** • **RESTful APIs, Authentication**  
+- Other Tools / Skills:  
+**Git** • **AWS** • **Docker** • **Jira / Confluence**  
 
 ---
 
