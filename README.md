@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **full-stack development with various frameworks**
 
-- 🎓 In school, I am currently taking courses on **operating systems and artificial intelligience**. I have completed course in **data structures and algorithms, computer organisation, computer networks, database systems, IT management, and software engineering practices**
+- 🎓 In school, I am currently taking courses on **operating systems and artificial intelligience**. I have completed courses in **data structures and algorithms, computer organisation, computer networks, database systems, IT management, and software engineering practices**
 
 - 👀 Checkout [**my portfolio website**](https://jolynn-wee.vercel.app/)! (WIP)
 
